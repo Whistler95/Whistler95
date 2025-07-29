@@ -46,8 +46,6 @@
 ---
 
 ## 🤝 Contact
-📧 **Email:** whistler95@example.com  
-🌐 [Notion Portfolio](https://notion.site/...)  
-📄 [Portfolio PPT](링크)
+📧 **Email:** sdr020071@naver.com 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:53D9C1,100:4A90E2&height=150&section=footer)
