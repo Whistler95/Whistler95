@@ -32,7 +32,7 @@
 | Project | Description | Tech Stack |
 |---------|------------|------------|
 | [**Animal Care Platform**](https://github.com/Whistler95/Animal-Care-Platform) | Spring 기반 유기동물 보호·입양·봉사·후원 통합 관리 플랫폼 | Java / Spring / MyBatis / MySQL |
-| [**Helia Hotel Platform**](https://github.com/Whistler95/Helia-Hotel-Platform) | 호텔 예약·확인 기능을 구현한 웹 애플리케이션 (UI/UX 설계·구현 중심) | Java / JSP / JSTL / MySQL |
+| [**Helia Hotel Platform**](https://github.com/Whistler95/Helia-Hotel-Platform) | 호텔 예약·확인 기능을 구현한 웹 애플리케이션 (UI/UX 설계·구현 중심) | Java / JSP / JSTL / Oracle |
 | [**Cafe POS System**](https://github.com/Whistler95/Cafe-POS-System) | Java Swing 기반 카페 POS 프로그램 | Java / Swing / Oracle |
 
 
