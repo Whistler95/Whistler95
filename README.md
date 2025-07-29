@@ -41,7 +41,6 @@
 ---
 
 ## 📈 GitHub Stats
-![Whistler95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whistler95&show_icons=true&theme=tokyonight)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whistler95)](https://github.com/Whistler95/github-readme-stats)
 
 ---
