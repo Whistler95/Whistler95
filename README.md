@@ -7,17 +7,17 @@
 
 ---
 
-## 📚 Tech Stack
-💡 **Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+## 🛠 Tech Stack
+💡 **Mainly Using**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-FF9900?style=for-the-badge&logo=java&logoColor=white)
 
-💡 **Tools & Collaboration**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+🛠 **Tools**  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -28,16 +28,16 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Projects
 | Project | Description | Tech Stack |
 |---------|------------|------------|
-| [🐾 Animal Care Platform](https://github.com/Whistler95/Animal-Care-Platform) | 유기동물 입양·봉사·후원 통합 관리 플랫폼 | Java, Spring, MyBatis, MySQL |
-| [☕ Cafe POS System](https://github.com/Whistler95/Cafe-POS-System) | Java Swing 기반 카페 매장 POS 프로그램 | Java, Oracle SQL |
+| [**Animal Care Platform**](https://github.com/Whistler95/Animal-Care-Platform) | Spring 기반 유기동물 보호·입양·봉사·후원 통합 관리 플랫폼 | Java / Spring / MyBatis / MySQL |
+| [**Cafe POS System**](https://github.com/Whistler95/Cafe-POS-System) | Java Swing 기반 카페 POS 프로그램 | Java / Swing / Oracle |
 
 ---
 
-## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Whistler95&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats
+![Whistler95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whistler95&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whistler95&layout=compact&theme=tokyonight)
 
 ---
