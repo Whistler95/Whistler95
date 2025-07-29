@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=50&animation=fadeIn&fontAlignY=38)
+
 # 👋 Hi, I'm Ho-chan!  
 💻 **Backend Developer in Progress** | ☕ Java & Spring Lover  
 
@@ -48,3 +50,5 @@
 📧 **Email:** whistler95@example.com  
 🌐 [Notion Portfolio](https://notion.site/...)  
 📄 [Portfolio PPT](링크)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
