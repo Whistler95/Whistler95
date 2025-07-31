@@ -52,9 +52,11 @@
 ---
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whistler95)](https://github.com/Whistler95/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whistler95&layout=compact&theme=default)](https://github.com/Whistler95/github-readme-stats)
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Whistler95&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whistler95&layout=compact&theme=default" height="160" />
+</p>
 ---
 
 ## 🤝 Contact
