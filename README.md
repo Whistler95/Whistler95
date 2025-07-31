@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:53D9C1,100:4A90E2&height=220&section=header&text=Hi!%20I'm%20Ho-chan👋&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20in%20Progress&descAlignY=55&descAlign=50)
 
-# 👋 Hi, I'm Ho-chan!  
 💻 **Backend Developer in Progress** | ☕ Java & Spring Lover  
 
 🚀 신입 백엔드 개발자로 성장 중이며,  
