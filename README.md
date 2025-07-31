@@ -54,8 +54,8 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whistler95&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whistler95&layout=compact&theme=default" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Whistler95&show_icons=true&theme=default&cache_seconds=7200" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whistler95&layout=compact&langs_count=6&theme=default&cache_seconds=7200" />
 </p>
 
 ---
