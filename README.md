@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:53D9C1,100:4A90E2&height=220&section=header&text=Hi!%20I'm%20Ho-chan👋&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20in%20Progress&descAlignY=55&descAlign=50)
 
-💻 **Backend Developer in Progress** | ☕ Java & Spring Lover  
-
 🚀 신입 백엔드 개발자로 성장 중이며,  
 실무에 필요한 **Spring Legacy & Boot 기반 백엔드 설계**,  
-**REST API, 인증/인가, 배포 경험**을 프로젝트로 쌓아가고 있어요!
+**REST API, 인증/인가, 배포 경험**을 프로젝트로 쌓아가고 있습니다!
 
 ---
 
