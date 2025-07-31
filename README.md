@@ -53,6 +53,7 @@
 
 ## 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whistler95)](https://github.com/Whistler95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whistler95&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
